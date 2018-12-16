@@ -1,6 +1,6 @@
 # Drone_PID
 
-A PID Library used in Automated Flight Drone Project for Phys 124 at UCSD, Fall 2018.
+An Arduino PID Library used in Automated Flight Drone Project for Phys 124 at UCSD, Fall 2018.
 Written by Michael Lazernik and Dillon Haughton.
 
 ## Contents
