@@ -5,8 +5,8 @@
  * MIT License
  */
 
-#ifndef DFRduino_GPS_h
-#define DFRduino_GPS_h
+#ifndef Drone_PID_h
+#define Drone_PID_h
 
 #include "Arduino.h"
 
